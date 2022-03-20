@@ -7,6 +7,6 @@ conn.send3Button(m.chat, `
 *ミ🤖 Estado del Bot 🤖彡*
 *=> Bot activo ✔️*
 *=> Bot uso público ✔️*
-`.trim(), '©The Shadow Borkers - Bot', '🔷️ MENÚ 🔷', `${usedPrefix}menu`, '🔶️ MENÚ SIMPLE 🔶️', `${usedPrefix}menusimple`, '💠️ MENÚ AUDIOS 💠️', `${usedPrefix}menuaudios`, m, false, { contextInfo: { mentionedJid }})}
+`.trim(), '™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣', '🔷️ MENÚ 🔷', `${usedPrefix}menu`, '🔶️ MENÚ SIMPLE 🔶️', `${usedPrefix}menusimple`, '💠️ MENÚ AUDIOS 💠️', `${usedPrefix}menuaudios`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
 module.exports = handler
