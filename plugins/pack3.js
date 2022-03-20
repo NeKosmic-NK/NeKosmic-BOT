@@ -15,6 +15,7 @@ let handler = async (m, { conn }) => {
 handler.command = /^(pack3)$/i
 handler.tags = ['internet']
 handler.help = ['pack']
+handler.admin = true
 module.exports = handler
 
 global.packmen = [
