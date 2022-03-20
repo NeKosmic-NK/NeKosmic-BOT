@@ -4,4 +4,5 @@ heum = await fetch(`https://api-alc.herokuapp.com/api/nsfw/yaoi?&apikey=ConfuMod
 json = await heum.buffer()
 conn.sendButtonImg(m.chat, json, '*Disfrutalo!!*', '©The Shadow Brokers - Bot', 'SIGUIENTE', `${usedPrefix + command}`, m, false)}
 handler.command = /^(yaoi)$/i
+handler.admin = true
 module.exports = handler
