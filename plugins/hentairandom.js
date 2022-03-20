@@ -5,5 +5,5 @@ let fetch = require('node-fetch')
    conn.sendButtonImg(m.chat, json, '*Hentai By NeKosmicBot*', '™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣', '🔥SIGUIENTE🔥', `${usedPrefix + command}`, m, false)
 }
 handler.command = /^(hentai|hentay)$/i
-
+handler.admin = true
 module.exports = handler
