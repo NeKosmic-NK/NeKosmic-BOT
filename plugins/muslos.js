@@ -15,6 +15,7 @@ let handler = async (m, { conn }) => {
 handler.command = /^(muslos)$/i
 handler.tags = ['internet']
 handler.help = ['muslos']
+handler.admin = true
 module.exports = handler
 
 global.muslos = [
