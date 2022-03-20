@@ -25,5 +25,6 @@ let handler = async (m, { conn, text }) => {
      }
    }
 handler.command = /^(xnxxsearch|searchxnxx)$/
+handler.admin = true
 handler.premium = false
 module.exports = handler
