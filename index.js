@@ -4,12 +4,12 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('The Shadow\nBrokers\nBot', {
+CFonts.say('NeKosmic\nVIP\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Subscribete a The Shadow Brokers - Bot\n\nBot creado por Bruno Sobrino`, {
+CFonts.say(`Subscribete a NeKosmic - Bot\n\nBot creado por ¥Alpha-ØFC¥`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
