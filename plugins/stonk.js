@@ -7,7 +7,7 @@ let handler = async (m, { conn, text }) => {
     let stonk = global.API('https://hardianto.xyz', '/api/stonk', {
     image: await conn.getProfilePicture(m.sender).catch(_ => ''),
     apikey: 'hardianto'})
-    let stiker = await sticker(null, stonk, 'stonks', '©The Shadow Brokers - Bot')
+    let stiker = await sticker(null, stonk, 'stonks', '™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣')
   conn.sendMessage(m.chat, stiker, MessageType.sticker, {
     quoted: m
   })
