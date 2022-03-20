@@ -8,4 +8,5 @@ let mentionedJid = [who]
 conn.sendButtonImg(m.chat, NeKosmicBot, "*Sexy ❤️‍🔥*", '™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣', '🥵 SIGUIENTE 🥵', `${usedPrefix + command}`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^ecchi$/i
 module.exports = handler
+handler.admin = true
 module.exports = handler
