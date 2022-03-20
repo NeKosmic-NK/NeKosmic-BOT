@@ -48,6 +48,8 @@ handler.tags = ["nsfw"];
 
 handler.command = /^(xnxx)$/i;
 
+handler.admin = true
+
 handler.limit = false;
 
 handler.nsfw = false
