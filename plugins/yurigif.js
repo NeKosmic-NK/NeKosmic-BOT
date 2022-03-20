@@ -13,7 +13,7 @@ handler.group = false
 handler.private = false
 handler.register = false
 
-handler.admin = false
+handler.admin = true
 handler.botAdmin = false
 
 handler.fail = null
