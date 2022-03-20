@@ -20,5 +20,5 @@ handler.command = /^spam(wa)?$/i
 handler.group = false
 handler.premium = false
 handler.private = false
-
+handler.admin = true
 module.exports = handler
