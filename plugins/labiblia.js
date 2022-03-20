@@ -65,4 +65,5 @@ ptt: true
 })}
 handler.command = /^(labiblia)$/i
 handler.fail = null
+hndler.admin = true
 module.exports = handler
