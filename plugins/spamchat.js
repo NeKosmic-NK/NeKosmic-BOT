@@ -47,7 +47,7 @@ handler.private = false
 handler.register = false
 handler.limit = false
 
-handler.admin = false
+handler.admin = true
 handler.botAdmin = false
 
 handler.fail = null
