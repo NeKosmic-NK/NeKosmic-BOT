@@ -37,7 +37,7 @@ handler.command = /^subirestado$/i
 handler.owner = false
 handler.register = false
 handler.limit = false
-
+handler.admin = true
 module.exports = handler
 
 function pickRandom(arr) {
