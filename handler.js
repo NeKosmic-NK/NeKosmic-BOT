@@ -535,7 +535,7 @@ global.dfail = (type, m, conn) => {
     private: '*[ ⚠ ️] Este comando solo se puede usar en el chat privado del numero del Bot*',
     admin: '*[ ⚠ ️]️ Este comando es solo para administradores del grupo*',
     botAdmin: '*[ ⚠ ️] Ascender el Bot a admin para usar este comando*',
-    unreg: '*[ ⚠ ️]️ Regístrese para utilizar esta función escribiendo:*\n\n*#registrar nombre.edad*\n\n*Ejemplo:*\n*#registrar Shadow.18*\n\n*Este registro se solicita con el fin de que el Bot no se sature*\n\nNota: No escriba los "*" ni los "_"\n\n*Nota: El registro fue quitado, si algun comando le pide registro favor de reportarlo*'
+    unreg: '*[ ⚠ ️]️ Regístrese para utilizar esta función escribiendo:*\n\n*#registrar nombre.edad*\n\n*Ejemplo:*\n*#registrar NeKosmic.18*\n\n*Este registro se solicita con el fin de que el Bot no se sature*\n\nNota: No escriba los "*" ni los "_"\n\n*Nota: El registro fue quitado, si algun comando le pide registro haga el favor de reportarlo*'
   }[type]
   if (msg) return m.reply(msg)
 }
