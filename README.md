@@ -61,7 +61,7 @@ de WhatsApp, por lo que sugiero usar este WhatsApp:
 [WhatsApp-Recomendado](https://download853.mediafire.com/xawpdplr7wvg/u133oxjqtiry52t/%E2%9E%A2+SOLITARIO+BUSINESS+%E2%9E%A2_2.21.19.21.apk)
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![NeKosmic](https://avatars.githubusercontent.com/u/https://photos.app.goo.gl/6sWqC4P9RxUqCsih6)](https://photos.app.goo.gl/6sWqC4P9RxUqCsih6) 
+[![NeKosmic](https://photos.app.goo.gl/6sWqC4P9RxUqCsih6)](https://photos.app.goo.gl/6sWqC4P9RxUqCsih6) 
 ```bash
 `NeKosmic - Bot ___ By ¥Alpha-ØFC¥` 
 ```
