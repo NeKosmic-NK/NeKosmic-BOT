@@ -23,6 +23,7 @@ let menu =`
 ║➤ *Numero del creador:* *wa.me//+34623442554 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/NeKosmicOFC*
 ║➤ *Numero del Bot oficial:* *wa.me/+56975256031*
+║➤ *TikTok: https://vm.tiktok.com/ZMLaoG29r/*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
