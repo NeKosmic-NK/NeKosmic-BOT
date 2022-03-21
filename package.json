@@ -1,7 +1,7 @@
 {
-  "name": "ShadowBotV3",
+  "name": "NeKosmicBot",
   "version": "10.8.9",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
+  "description": "Subscribete a NeKosmic - Bot (≧▽≦)",
   "depecrated": false,
   "main": "index.js",
   "directories": {
