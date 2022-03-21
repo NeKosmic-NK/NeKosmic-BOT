@@ -9,7 +9,7 @@ CFonts.say('NeKosmic\nVIP\nBot', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Subscribete a NeKosmic - Bot\n\nBot creado por ¥Alpha-ØFC¥`, {
+CFonts.say(`Subscribete a NeKosmic - Bot\n\nBot creado por ¥Alpha-OFC¥`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
