@@ -63,5 +63,7 @@ de WhatsApp, por lo que sugiero usar este WhatsApp:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![NeKosmic](https://photos.app.goo.gl/6sWqC4P9RxUqCsih6)](https://photos.app.goo.gl/6sWqC4P9RxUqCsih6) 
 ```bash
-`NeKosmic - Bot ___ By ¥Alpha-ØFC¥` `Agradecimiento a @BrunoSobrino`
+`NeKosmic - Bot ___ By ¥Alpha-ØFC¥`
+```
+`Agradecimiento a @BrunoSobrino`
 ```
