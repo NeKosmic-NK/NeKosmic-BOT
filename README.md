@@ -1,4 +1,4 @@
-# **🔥 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌-𝙱𝙾𝚃 🔥**
+# **👑𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌-𝙱𝙾𝚃👑**
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 > NO BOT
