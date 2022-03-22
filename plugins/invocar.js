@@ -14,7 +14,7 @@ let users = (await conn.groupMetadata(m.chat)).participants.map(u => u.jid)
 let pesan = args.join` `
 let oi = `*MENSAJE:* ${pesan}`
 let hmm = `*⺀I N V O C A N D O - G R U P O⺀*\n\n`
-let duh = `└\n\n*N̶̛͋̄̊̓̇͐̂͠e̷̖̩̾̆̾̓̾̓̂K̴̙̭̪̅͑̿̚ó̷̙͔͒̉̆̈́͝͝s̴̼͎̝̺͔͈̈̄̾m̸̢͕̒̒̃́͘͝͠į̷͚̮̩̂̍͆͜c̵͙̼̈̾̍͛̉̈́̚ - B̵̠̤̘̜̈́͝O̷̍͂͒̏̒͋̈́̐̅Ṫ̵̹̓̌̀̕͝͝͝**` 
+let duh = `└\n\n*N̶̛͋̄̊̓̇͐̂͠e̷̖̩̾̆̾̓̾̓̂K̴̙̭̪̅͑̿̚ó̷̙͔͒̉̆̈́͝͝s̴̼͎̝̺͔͈̈̄̾m̸̢͕̒̒̃́͘͝͠į̷͚̮̩̂̍͆͜c̵͙̼̈̾̍͛̉̈́̚ - B̵̠̤̘̜̈́͝O̷̍͂͒̏̒͋̈́̐̅Ṫ̵̹̓̌̀̕͝͝͝*` 
 var teks = `${oi}\n\n❏\n`
 for (let admon of groupMembers) { teks += `┣➥ @${admon.jid.split('@')[0]}\n`} mentions(hmm+teks+duh, users, true,{ contextInfo: { mentionedJid: users } })
 await await await await await await conn.sendFile(m.chat, vn, 'Invocar.mp3', null, m, true, {   
