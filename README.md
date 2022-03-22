@@ -20,10 +20,10 @@
 ```bash
 > termux-setup-storage
 > apt update && apt upgrade -y -y
-> apt install git -y
-> apt install nodejs -y
-> apt install ffmpeg -y
-> apt install imagemagick -y
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
 > git clone https://github.com/NeKosmic-OFC/NeKosmic-BOT
 > cd NeKosmic-BOT
 > npm install
