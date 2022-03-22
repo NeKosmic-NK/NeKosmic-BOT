@@ -23,7 +23,7 @@ let menu =`
 ║➤ *Creador del Bot:*
 ║➤ *¥Alpha-ØFC¥* 
 ║➤ *Numero del creador:*
-║➤ *wa.me//+34623442554 (No Bot)*
+║➤ *wa.me//+34623442554*
 ║➤ *PayPal:* 
 ║➤ *https://www.paypal.me/NeKosmicOFC*
 ║➤ *Numero del Bot oficial:* 
