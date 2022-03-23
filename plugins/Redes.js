@@ -31,7 +31,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
   }
 }
-handler.help = ['Redes']
+handler.help = ['redes']
 handler.tags = ['General']
 handler.command = /^(redes|Redes|redes sociales|Redes sociales)$/i
 handler.owner = false
