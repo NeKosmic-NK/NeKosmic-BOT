@@ -10,7 +10,7 @@ let info = `
 
 *2.-* *Familia Otaku:* https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2
 
-*3.-* https://chat.whatsapp.com/Grupo-No-Creado
+*3.-* *X-Acount:* https://chat.whatsapp.com/DTGQs0G32Bp1OvgT0npjsD
 
 *4.-* https://chat.whatsapp.com/Grupo-No-Creado
 
