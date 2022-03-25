@@ -6,11 +6,14 @@ let info = `
 *👑Hola👑, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de ™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣*
 
 *➤ Grupos oficiales del Bot:*
-*1.-* *Soporte Técnico:* https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy
+*1.-* *Soporte Técnico:* 
+https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy
 
-*2.-* *Familia Otaku:* https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2
+*2.-* *Familia Otaku:* 
+https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2
 
-*3.-* *X-Acount:* https://chat.whatsapp.com/DTGQs0G32Bp1OvgT0npjsD
+*3.-* *X-Acount:* 
+https://chat.whatsapp.com/DTGQs0G32Bp1OvgT0npjsD
 
 *4.-* https://chat.whatsapp.com/Grupo-No-Creado
 
