@@ -30,6 +30,7 @@ let menu =`
 ║➤ *wa.me/+56975256031*
 ║➤ *TikTok:*
 ║➤ *https://vm.tiktok.com/ZMLaoG29r/*
+║➤ *Facebook: https://www.facebook.com/groups/831511214457732/?ref=share_group_link
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
