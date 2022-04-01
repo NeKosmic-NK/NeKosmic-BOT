@@ -22,6 +22,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣ ඬ⃟♠️ _𝐓𝐢𝐤𝐓𝐨𝐤: https://vm.tiktok.com/ZMLm4r1Fe/
 ┣ ඬ⃟♠️ _𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: https://www.instagram.com/invites/contact/?i=lytcupbm7ds9&utm_content=o5vctb8
 ┣ ඬ⃟♠️ _𝐏𝐚𝐲𝐏𝐚𝐥: https://www.paypal.me/NeKosmicOFC
+┣ ඬ⃟♠️ _𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: https://www.facebook.com/groups/831511214457732/?ref=share_group_link
 ┗━━━━━━━━━━━━━┛
 ꨄ︎𝐏𝐚𝐫𝐚 𝐟𝐮𝐭𝐮𝐫𝐚𝐬 𝐚𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞𝐥 𝐁𝐨𝐭ꨄ︎
 ❦︎𝐧𝐨𝐬 𝐯𝐞𝐧𝐝𝐫𝐢𝐚 𝐛𝐢𝐞𝐧 𝐮𝐧 𝐩𝐨𝐜𝐨 𝐝𝐞 𝐚𝐩𝐨𝐲𝐨❦︎
