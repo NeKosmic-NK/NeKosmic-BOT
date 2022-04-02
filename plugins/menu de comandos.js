@@ -31,7 +31,7 @@ let menu =`
 ║➤ *TikTok:*
 ║➤ *https://n9.cl/70adg*
 ║➤ *Facebook:*
-║➤ *https://n9.cl/o91da*
+║➤ *https://n9.cl/deke8*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
