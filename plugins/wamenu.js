@@ -169,7 +169,7 @@ const rows = [
 const sections = [{title: "OPCIONES A ESCOGER", rows: rows}]
 const button = {
 buttonText: 'MENU',
-description: "*😎 ━CREADOR DEL BOT: wa.me/34623442554\n\n🤖━NUMERO DEL BOT OFC:Wa.me/56975256031\n\n🤘🏻━Si TIENES ALGUNA DUDA O PREGUNTA SOBRE EL BOT ۝⃡࿑⃢ᬁ☠︎ᦔⅈડρꪮꪀⅈ᥇ꪶꫀ✌︎᳀⃟⃢ MANDAME MENSAJE A Mi NUMERO OFC: Wa.me/56949581430\n\n━NOTA: NO AYUDO A CREAR BOTS Ni A MODIFICAR━\n\n\n\n             BOT-۝⃡࿑⃢ᬁ☠︎ᦔⅈડρꪮꪀⅈ᥇ꪶꫀ✌︎᳀⃟⃢*",
+description: "*👑━CREADOR DEL BOT: wa.me/34623442554\n\n🤖━NUMERO DEL BOT OFC:Wa.me/56975256031\n\n🔥━Si TIENES ALGUNA DUDA O PREGUNTA SOBRE EL BOT MANDAME MENSAJE A Mi NUMERO OFC: Wa.me/56949581430\n\n━PayPal: https://www.paypal.me/NeKosmicOFC━\n\n\n\n                  ۝⃡࿑⃢ᬁ☠︎𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜✌︎᳀⃟⃢**",
 sections: sections,
 listType: 1
 }  
