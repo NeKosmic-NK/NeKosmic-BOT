@@ -47,10 +47,11 @@ let menu =`
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
 ┣ ඬ⃟ℹ️ _${usedPrefix}estado_
-┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
-┣ ඬ⃟ℹ️ _Codigos para audios_
-┣ ඬ⃟ℹ️ _Términos y condiciones_
-┣ ඬ⃟ℹ️ _Redes_
+┣ ඬ⃟ℹ️ _$¿Qué es un Bot?_
+┣ ඬ⃟ℹ️ _$Codigos para audios_
+┣ ඬ⃟ℹ️ _$Términos y condiciones_
+┣ ඬ⃟ℹ️ _$Redes_
+┣ ඬ⃟ℹ️️ _$.wamenu (cajón de comandos)
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
