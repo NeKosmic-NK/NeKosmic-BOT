@@ -96,7 +96,7 @@ const rows = [
 {title: '.banchat', description: "para banear conversasion y no funsione el bot", rowId:".banchat"},
 {title: '.unbanchat', description: "para desbanear la conversasion", rowId:".unbanchat"},
 {title: '.s', description: "responde a una foto/gif para crear en estiker", rowId:".s"},
-{title: 'grou', description: "hm", rowId:"/gb"},
+{title: '.Redes', description: "para ver las redes del bot", rowId:".Redes"},
 {title: 'groupbot', description: "hm", rowId:"/gb"},
 {title: 'groupbot', description: "hm", rowId:"/gb"},
 {title: 'groupbot', description: "hm", rowId:"/gb"},
