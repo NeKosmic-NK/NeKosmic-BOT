@@ -15,6 +15,7 @@ let handler = async m => m.reply(`
 *┃ -   BENEFICIARIO: ¥Alpha-ØFC¥* 
 *┃ -   CONCEPTO: APOYO*  
 *┃➤ PayPal: https://www.paypal.me/NeKosmicOFC*
+*┃➤ PayPal2: https://www.paypal.me/TheShadowBrokers133*
 *┃❖ Contáctame si necesitas otros*
 *┃datos y para darte las gracias <3*
 *┃❖ wa.me/+34623442554*
