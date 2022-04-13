@@ -12,8 +12,8 @@ https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy
 *2.-* *Familia Otaku:* 
 https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2
 
-*3.-* *X-Acount:* 
-https://chat.whatsapp.com/IN9SDkEKFziBCZKVlmnxCc
+*3.-* *Bot's Oficiales:* 
+https://chat.whatsapp.com/FXSClrsE1dr5jUqAustVX9
 
 *4.-* *TEAM BLACK-EAGLE:*
 https://chat.whatsapp.com/LINRVAQIhZdEAlShmLmhK5
