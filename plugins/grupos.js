@@ -10,7 +10,7 @@ let info = `
 https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy
 
 *2.-* *Familia Otaku:* 
-https://chat.whatsapp.com/IPwrhgDwknnG37PzIA4aS4
+https://chat.whatsapp.com/FrFyDLRxR4TJcDvttI19JY
 
 *3.-* *Bot's Oficiales:* 
 https://chat.whatsapp.com/FXSClrsE1dr5jUqAustVX9
