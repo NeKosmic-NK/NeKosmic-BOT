@@ -52,6 +52,7 @@ let menu =`
 ┣ ඬ⃟ℹ️ _Términos y condiciones_
 ┣ ඬ⃟ℹ️ _.Redes_
 ┣ ඬ⃟ℹ️️ _.wamenu (cajón de comandos)
+┣ ඬ⃟ℹ️️ _.discord
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
