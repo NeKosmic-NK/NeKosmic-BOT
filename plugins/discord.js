@@ -32,5 +32,5 @@ let info = `
 *_「  *_「   ͚͜͝͠ ͚͜͝͠𝐍 ͚͜͝͠ ͚͜͝͠𝐞 ͚͜͝͠ ͚͜͝͠𝐊 ͚͜͝͠ ͚͜͝͠𝐨 ͚͜͝͠ ͚͜͝͠𝐭 ͚͜͝͠ ͚͜͝͠𝐢  ͚͜͝͠𝐧 ͚͜͝͠𝐞 ͚͜͝͠- ͚͜͝͠𝐁  ͚͜͝͠𝐎𝐓͚͜͝͠  」*`.trim()
 conn.sendMessage(m.chat, info, MessageType.text, { quoted: { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net', fromMe: false }, message: { "imageMessage": { "mimetype": "image/jpeg", "caption": '🔥 NEKOSMIC - BOT 🔥', "jpegThumbnail": fs.readFileSync(`./menu.jpg`)}}}})}
 
-handler.command = /^(grupos|gruposofc|gruposofc)$/i
+handler.command = /^(discord|Discord|discord server)$/i
 module.exports = handler
