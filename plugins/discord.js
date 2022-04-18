@@ -46,9 +46,9 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
   }
 }
-handler.help = ['Minecraft']
+handler.help = ['discord']
 handler.tags = ['General']
-handler.command = /^(minecraft|Minecraft|addminecraft|addMinecraft)$/i
+handler.command = /^(discord|server-bot|server-discord|Discord)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
