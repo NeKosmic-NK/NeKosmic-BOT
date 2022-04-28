@@ -24,7 +24,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/NeKosmic-OFC/NeKosmic-BOT
+> git clone https://github.com/NeKosmic-NK/NeKosmic-BOT
 > cd NeKosmic-BOT
 > npm install
 > npm install -g npm@8.5.4
