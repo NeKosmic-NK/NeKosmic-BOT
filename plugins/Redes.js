@@ -19,9 +19,9 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┃ *👑𝐑𝐞𝐝𝐞𝐬👑*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟♠️ _𝐘𝐨𝐮𝐓𝐮𝐛𝐞: https://n9.cl/76dmk
-┣ ඬ⃟♠️ _𝐓𝐢𝐤𝐓𝐨𝐤: https://n9.cl/70adg
-┣ ඬ⃟♠️ _𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: https://n9.cl/lvl5b
-┣ ඬ⃟♠️ _𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: https://n9.cl/deke8
+┣ ඬ⃟♠️ _𝐓𝐢𝐤𝐓𝐨𝐤: https://n9.cl/xfa7l
+┣ ඬ⃟♠️ _𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: https://n9.cl/2u7gj
+┣ ඬ⃟♠️ _𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: li.mantenimiento.li
 ┣ ඬ⃟♠️ _𝐏𝐚𝐲𝐏𝐚𝐥: https://www.paypal.me/NeKosmicOFC
 ┗━━━━━━━━━━━━━┛
 ꨄ︎𝐏𝐚𝐫𝐚 𝐟𝐮𝐭𝐮𝐫𝐚𝐬 𝐚𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞𝐥 𝐁𝐨𝐭ꨄ︎
