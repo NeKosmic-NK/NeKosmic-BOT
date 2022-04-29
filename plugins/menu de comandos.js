@@ -31,7 +31,7 @@ let menu =`
 ║➤ *Numero del Bot oficial:* 
 ║➤ *wa.me/+56975256031*
 ║➤ *TikTok:*
-║➤ *https://n9.cl/70adg*
+║➤ *https://n9.cl/xfa7l*
 ║➤ *Facebook:*
 ║➤ *https://n9.cl/deke8*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
