@@ -110,6 +110,8 @@ let menu =`
 ┣ ඬ⃟🕹 _${usedPrefix}ppt *piedra / papel / tijera*_
 ┣ ඬ⃟🎮 _${usedPrefix}prostituta *@tag / nombre*_
 ┣ ඬ⃟🕹 _${usedPrefix}prostituto *@tag / nombre*_
+┣ ඬ⃟🎮 _${usedPrefix}doxxear *@tag*_
+┣ ඬ⃟🎮 _${usedPrefix}doxxeame_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<DESCARGAS/>*
