@@ -42,10 +42,18 @@ let handler = async (m, { conn, usedPrefix }) => {
     let usersmythic = sortedmythic.map(v => v[0])
     let userslegendary = sortedlegendary.map(v => v[0])
     let str = `
-*_Experiencia total de_* *${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])}*\n
-_XP:_ *${exp}*
+┏━━━━━━━━━━━━━┓
+┃ *👑Level👑*
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ඬ⃟♠️ _Experiencia total 👇
+┣ ඬ⃟♠️ _*${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])}*\n
+┣ ඬ⃟♠️ _XP:_ *${exp}*
+┣ ඬ⃟♠️ _Desafio: 9000XP_
+┣ ඬ⃟♠️ _Nivel del Grupo: Novato III
+┗━━━━━━━━━━━━━┛
 
-*No sirve para nada, pero pss ahi esta xD*
+*👑N̶̛͋̄̊̓̇͐̂͠e̷̖̩̾̆̾̓̾̓̂K̴̙̭̪̅͑̿̚ó̷̙͔͒̉̆̈́͝͝s̴̼͎̝̺͔͈̈̄̾m̸̢͕̒̒̃́͘͝͠į̷͚̮̩̂̍͆͜c̵͙̼̈̾̍͛̉̈́̚ - B̵̠̤̘̜̈́͝O̷̍͂͒̏̒͋̈́̐̅Ṫ̵̹̓̌̀̕͝͝͝👑* 
+
 `.trim()
     conn.reply(m.chat, str, m)
 }
