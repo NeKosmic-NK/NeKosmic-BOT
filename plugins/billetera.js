@@ -49,7 +49,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣ ඬ⃟♠️ _*${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])}*\n
 ┣ ඬ⃟♠️ _XP:_ *${exp}*
 ┣ ඬ⃟♠️ _Desafio: 9000XP_
-┣ ඬ⃟♠️ _Nivel del Grupo: Novato III
+┣ ඬ⃟♠️ _Nivel Global: Novato III_
 ┗━━━━━━━━━━━━━┛
 
 *👑N̶̛͋̄̊̓̇͐̂͠e̷̖̩̾̆̾̓̾̓̂K̴̙̭̪̅͑̿̚ó̷̙͔͒̉̆̈́͝͝s̴̼͎̝̺͔͈̈̄̾m̸̢͕̒̒̃́͘͝͠į̷͚̮̩̂̍͆͜c̵͙̼̈̾̍͛̉̈́̚ - B̵̠̤̘̜̈́͝O̷̍͂͒̏̒͋̈́̐̅Ṫ̵̹̓̌̀̕͝͝͝👑* 
