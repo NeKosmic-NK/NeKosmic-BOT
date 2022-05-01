@@ -1,4 +1,4 @@
-/*
+
 const cooldowns = {
     lastadventure: {
         name: 'adventure',
@@ -29,4 +29,4 @@ handler.help = ['cd', 'cooldown']
 handler.tags = ['rpg']
 handler.command = /^(cd|cooldown)$/i
 module.exports = handler
-*/
+
