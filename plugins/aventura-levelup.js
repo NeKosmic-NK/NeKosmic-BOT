@@ -1,4 +1,4 @@
-/*
+
 let { MessageType, mentionedJid } = require("@adiwajshing/baileys");
 let { spawn } = require('child_process')
 let levelling = require('../lib/levelling')
@@ -97,4 +97,3 @@ handler.tags = ['rpg']
 handler.command = /^(levelup|lvup)$/i
 handler.register = true
 module.exports = handler
-*/
