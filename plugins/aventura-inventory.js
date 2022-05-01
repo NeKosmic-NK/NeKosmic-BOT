@@ -1,4 +1,4 @@
-/*
+
 import daily from './rpg-daily.js'
 import monthly from './rpg-monthly.js'
 import adventure from './rpg-adventure.js'
@@ -121,4 +121,4 @@ handler.help = ['inventory', 'inv']
 handler.tags = ['rpg']
 handler.command = /^(inv(entory)?|bal(ance)?|money|e?xp)$/i
 export default handler
-*/
+
