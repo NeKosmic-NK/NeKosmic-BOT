@@ -1,4 +1,4 @@
-/*
+
 let handler = async (m, { args, usedPrefix }) => {
     let user = global.db.data.users[m.sender]
     if (user.health >= 100) return m.reply(`
@@ -25,4 +25,3 @@ function isNumber(number) {
     number = parseInt(number)
     return typeof number == 'number' && !isNaN(number)
 }
-*/
