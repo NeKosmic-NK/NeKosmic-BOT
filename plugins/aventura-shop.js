@@ -1,4 +1,4 @@
-/*
+
 let fs = require('fs')
 const potion = 500
 const Spotion = 150 
@@ -378,4 +378,4 @@ handler.tags = ['rpg']
     
 handler.command = /^(shop|toko|tienda|buy|beli|comprar|sell|jual|vender)$/i
 module.exports = handler
-*/
+
