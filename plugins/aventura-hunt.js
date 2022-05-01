@@ -1,4 +1,4 @@
-/*
+
 let handler = async (m, { conn, text }) => {
 	let monsters = [
 		{ area: 1, name: "Goblin" },
@@ -88,4 +88,4 @@ function DeTik(ms) {
 	let s = isNaN(ms) ? '60' : Math.floor(ms / 1000) % 60
 	return [s].map(v => v.toString().padStart(2, 0)).join(':')
 }
-*/
+
