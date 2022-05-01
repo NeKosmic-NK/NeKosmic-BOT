@@ -1,4 +1,4 @@
-/*
+
 let confirm = {}
 async function handler(m, { conn, args }) {
     //if (!isROwner) throw 'Dalam perbaikan'
@@ -87,4 +87,4 @@ function number(x = 0) {
     x = parseInt(x)
     return !isNaN(x) && typeof x == 'number'
 }
-*/
+
