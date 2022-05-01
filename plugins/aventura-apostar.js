@@ -1,4 +1,4 @@
-/*
+
 let { MessageType } = require('@adiwajshing/baileys')
 let confirm = {}
 async function handler(m, { conn, args, isROwner }) {
@@ -123,4 +123,4 @@ function button(teks, user) {
     
     return buttonMessage
 }
-*/
+
