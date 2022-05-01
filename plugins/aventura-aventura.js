@@ -1,4 +1,4 @@
-/*
+
 let { MessageType } = require('@adiwajshing/baileys')
 const cooldown = 300000
 let handler = async (m, { conn, usedPrefix, DevMode }) => {
@@ -90,4 +90,3 @@ function clockString(seconds) {
   sDisplay = s > 0 ? s + (s == 1 ? " segundo" : " Segundos") : "";
   return dDisplay + hDisplay + mDisplay + sDisplay;
 };
-*/
