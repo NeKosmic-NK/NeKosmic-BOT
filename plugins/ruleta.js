@@ -25,3 +25,22 @@ case 'rolette':;case 'roleta':
                 side == 1 ? await gaming.addValue(user, Number(nrolxp), nivel, 'xp') : await gaming.addValue(user, Number(prolxp), nivel, 'xp')
                 if (noLimits == 0) await gaming.addLimit(user, daily, './lib/config/Gerais/diario.json')
                 break
+    let mentionedJid = [who]
+    conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
+  }
+}
+handler.help = ['Redes']
+handler.tags = ['General']
+handler.command = /^(redes|Redes|redes sociales|Redes sociales)$/i
+handler.owner = false
+handler.mods = false
+handler.premium = false
+handler.group = false
+handler.private = false
+
+handler.admin = false
+handler.botAdmin = false
+
+handler.fail = null
+
+module.exports = handler
