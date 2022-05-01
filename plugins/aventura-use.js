@@ -1,4 +1,4 @@
-/*
+
 let { MessageType } = require('@adiwajshing/baileys')
 let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) =>  {
     let msgerror = (pickRandom(['Error', 'astagfirullah error', 'Nice Error', 'Salah format keknya :v', 'error bro', 'Kocak error :v', 'wtf error :v', 'Ciaaa error', 'error cuyy', 'dahlah (emot batu) error']))
@@ -72,4 +72,3 @@ module.exports = handler
 function pickRandom(list) {
     return list[Math.floor(Math.random() * list.length)]
 }
-*/
