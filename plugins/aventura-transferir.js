@@ -1,4 +1,4 @@
-/*
+
 let { MessageType } = require('@adiwajshing/baileys')
 let handler = async (m, { conn, args, usedPrefix, command, DevMode }) => {
     if (args.length < 3) {
@@ -181,4 +181,4 @@ handler.botAdmin = false
 handler.fail = null
 handler.money = 0
 module.exports = handler
-*/
+
