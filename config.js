@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy' , 'https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible'] // No tiene utilidad 
 global.channelTikTok = ['https://vm.tiktok.com/ZMLNSV3YV/'] // No tiene utilidad
-global.owner = ['34623442554' , '97255-723-4456'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.owner = ['5574370309' , '8451003894'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['34623442554' , '97255-723-4456'] // No tiene utilidad
 global.prems = ['34623442554' , '97255-723-4456', '97255-704-9012'] // Podra usar algunos comandos del apartado de propietario
 
